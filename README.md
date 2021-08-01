@@ -1,1 +1,1 @@
-# class-24-creatinng-blueprints
+# C23 sol
